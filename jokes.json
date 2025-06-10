@@ -1,0 +1,26 @@
+[
+  {
+    "type": "programming",
+    "setup": "A user interface is like a joke.",
+    "punchline": "If you have to explain it then it is not that good.",
+    "id": 59
+  },
+  {
+    "type": "general",
+    "setup": "What did the 0 say to the 8?",
+    "punchline": "Nice belt.",
+    "id": 165
+  },
+  {
+    "type": "programming",
+    "setup": "What did the router say to the doctor?",
+    "punchline": "It hurts when IP.",
+    "id": 366
+  },
+  {
+    "type": "general",
+    "setup": "What do you call a cow on a trampoline?",
+    "punchline": "A milk shake!",
+    "id": 195
+  }
+]
